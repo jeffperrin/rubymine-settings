@@ -3,7 +3,7 @@
     <property name="created">2016-09-29T16:36:51</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-01-18T10:05:42</property>
+    <property name="modified">2017-01-18T14:42:32</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -101,12 +101,12 @@
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
-        <option name="FOREGROUND" value="e7c4ae" />
+        <option name="FOREGROUND" value="e7962b" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_START_ID">
       <value>
-        <option name="FOREGROUND" value="e7c4ae" />
+        <option name="FOREGROUND" value="e7962b" />
       </value>
     </option>
     <option name="RHTML_OMIT_NEW_LINE_ID">
