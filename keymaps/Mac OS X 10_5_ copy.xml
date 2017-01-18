@@ -29,6 +29,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="ParameterInfo" />
+  <action id="Replace" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
