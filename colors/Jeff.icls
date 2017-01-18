@@ -3,7 +3,7 @@
     <property name="created">2016-09-29T16:36:51</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-01-18T14:42:32</property>
+    <property name="modified">2017-01-18T16:33:44</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -84,7 +84,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e9adb6" />
+        <option name="FOREGROUND" value="e9999a" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -121,12 +121,12 @@
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
-        <option name="FOREGROUND" value="e7c4ae" />
+        <option name="FOREGROUND" value="e7962b" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
-        <option name="FOREGROUND" value="e7c4ae" />
+        <option name="FOREGROUND" value="e7962b" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
