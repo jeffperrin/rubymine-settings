@@ -7,4 +7,9 @@
     <variable name="VARIABLE_1" expression="" defaultValue="subject" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="it" value="it '$VARIABLE_1$'$VARIABLE_2$" description="it (does something)" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="does something" alwaysStopAt="true" />
+    <variable name="VARIABLE_2" expression="" defaultValue="do   $END$ end" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>

@@ -1,0 +1,13 @@
+<templateSet group="Ruby RSpec">
+  <template name="it" value="it '$DO_SOME_COOL_STUFF$' do&#10;  $ADD_SOME_COOL_CODE$&#10;end" description="it" toReformat="true" toShortenFQNames="true">
+    <variable name="DO_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ADD_SOME_COOL_CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="JSP" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>
