@@ -3,7 +3,7 @@
     <property name="created">2016-09-29T16:36:51</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-01-31T08:35:58</property>
+    <property name="modified">2017-01-31T08:51:51</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -195,6 +195,11 @@
     <option name="RUBY_SYMBOL">
       <value>
         <option name="FOREGROUND" value="3543a6" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_rspec-perhaps">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="ff232a" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
