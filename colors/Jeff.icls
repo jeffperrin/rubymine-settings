@@ -3,7 +3,7 @@
     <property name="created">2016-09-29T16:36:51</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-02-28T10:31:18</property>
+    <property name="modified">2017-03-02T13:52:36</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -40,6 +40,12 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a6a6a6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
