@@ -534,6 +534,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/autoparse-0.3.3/tasks" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.7.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/autoprefixer-rails-6.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/autoprefixer-rails-6.7.6/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/autoprefixer-rails-6.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/autoprefixer-rails-6.7.6/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.6.1, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/awesome_print-1.6.1/lib" />
@@ -840,6 +850,20 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.0.0.alpha6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.0.0.alpha6/templates" />
       </SOURCES>
     </library>
     <library name="bootstrap-sass (v2.3.2.2, RVM: ruby-2.2.3 [client_portal]) [gem]">
@@ -3682,6 +3706,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="haml (v5.0.0.beta.2, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/haml-5.0.0.beta.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/haml-5.0.0.beta.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/haml-5.0.0.beta.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/haml-5.0.0.beta.2/lib" />
+      </SOURCES>
+    </library>
     <library name="haml-rails (v0.9.0, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/haml-rails-0.9.0/lib" />
@@ -6360,6 +6394,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.19.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
     <library name="phantomjs (v2.1.1.0, RVM: ruby-2.2.3 [rails32]) [gem]">
@@ -9520,6 +9568,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/temple-0.7.7/lib" />
       </SOURCES>
     </library>
+    <library name="temple (v0.8.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/temple-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v2.1.4.0, RVM: ruby-2.1.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.4/lib/ruby/2.1.0/dl" />
@@ -9832,6 +9888,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/tilt-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.6/man" />
       </SOURCES>
     </library>
     <library name="timecop (v0.8.1, RVM: ruby-2.2.3 [rails32]) [gem]">
