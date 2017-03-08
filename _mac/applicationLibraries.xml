@@ -934,6 +934,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, RVM: ruby-2.4.0 [eventable]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
@@ -1712,6 +1724,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/chunky_png-1.3.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/chunky_png-1.3.4/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/chunky_png-1.3.4/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="clearance (v1.16.0, RVM: ruby-2.4.0 [eventable]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/clearance-1.16.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="clerk-gem (v0.2.0@972d9e, RVM: ruby-2.2.3 [rails32]) [gem]">
@@ -2750,6 +2780,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/bundler/gems/elasticsearch-ruby-ad95da5ad79a/elasticsearch-watcher/lib" />
+      </SOURCES>
+    </library>
+    <library name="email_validator (v1.6.0, RVM: ruby-2.4.0 [eventable]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/email_validator-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@eventable/gems/email_validator-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="erubi (v1.6.0, RVM: ruby-2.4.0 [eventable]) [gem]">
