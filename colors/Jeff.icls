@@ -3,7 +3,7 @@
     <property name="created">2016-09-29T16:36:51</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-03-02T13:52:36</property>
+    <property name="modified">2017-03-08T11:59:52</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -66,6 +66,42 @@
     </option>
     <option name="DEFAULT_TAG">
       <value />
+    </option>
+    <option name="HAML_CLASS">
+      <value>
+        <option name="FOREGROUND" value="e9999a" />
+      </value>
+    </option>
+    <option name="HAML_FILTER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HAML_RUBY_CODE">
+      <value>
+        <option name="BACKGROUND" value="edfced" />
+      </value>
+    </option>
+    <option name="HAML_STRING">
+      <value>
+        <option name="FOREGROUND" value="1c67c2" />
+      </value>
+    </option>
+    <option name="HAML_STRING_INTERPOLATED">
+      <value>
+        <option name="FOREGROUND" value="1c67c2" />
+      </value>
+    </option>
+    <option name="HAML_TAG">
+      <value>
+        <option name="FOREGROUND" value="6f6f6f" />
+      </value>
+    </option>
+    <option name="HAML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="eb6d7c" />
+      </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
@@ -217,6 +253,11 @@
       <value>
         <option name="BACKGROUND" value="e2f3ff" />
         <option name="EFFECT_COLOR" value="1c67c2" />
+      </value>
+    </option>
+    <option name="TAG_ATTR_KEY">
+      <value>
+        <option name="FOREGROUND" value="6d91b7" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
