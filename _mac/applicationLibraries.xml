@@ -1472,11 +1472,13 @@
     </library>
     <library name="byebug (v8.2.5, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/8.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/byebug-8.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/byebug-8.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/byebug-8.2.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/8.2.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/byebug-8.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/byebug-8.2.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/byebug-8.2.5/lib" />
@@ -3366,6 +3368,7 @@
     </library>
     <library name="eventmachine (v1.0.9.1, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/java" />
@@ -3373,6 +3376,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/eventmachine-1.0.9.1/java" />
@@ -3774,12 +3778,14 @@
     </library>
     <library name="ffi (v1.9.10, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/ffi-1.9.10/lib" />
@@ -4270,6 +4276,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/foreman-0.82.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/foreman-0.82.0/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/foreman-0.82.0/data" />
+      </SOURCES>
+    </library>
+    <library name="foreman (v0.83.0, RVM: ruby-2.3.3 [paydirt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/foreman-0.83.0/data" />
       </SOURCES>
     </library>
     <library name="formatador (v0.2.5, RVM: ruby-2.2.3 [client_portal]) [gem]">
@@ -5092,12 +5112,14 @@
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/http_parser.rb-0.6.0/bench" />
@@ -7900,6 +7922,7 @@
     </library>
     <library name="nokogiri (v1.6.7.2, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/lib" />
@@ -7909,6 +7932,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/nokogiri-1.6.7.2/lib" />
@@ -8370,11 +8394,13 @@
     </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/pg-0.18.4/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/pg-0.18.4/sample" />
@@ -9526,11 +9552,13 @@
     </library>
     <library name="raindrops (v0.15.0, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.15.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/raindrops-0.15.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/raindrops-0.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/raindrops-0.15.0/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.15.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/raindrops-0.15.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/raindrops-0.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/raindrops-0.15.0/archive" />
@@ -9832,11 +9860,13 @@
     </library>
     <library name="redcarpet (v3.3.3, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/redcarpet-3.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/redcarpet-3.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/redcarpet-3.3.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/redcarpet-3.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/redcarpet-3.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/redcarpet-3.3.3/lib" />
@@ -11520,11 +11550,13 @@
     </library>
     <library name="scrypt (v2.0.2, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/scrypt/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/scrypt-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/scrypt-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/scrypt-2.0.2/autotest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/scrypt/2.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/scrypt-2.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/scrypt-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/scrypt-2.0.2/autotest" />
@@ -13514,6 +13546,7 @@
     </library>
     <library name="unicorn (v5.0.1, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/ext" />
@@ -13523,6 +13556,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/unicorn-5.0.1/ext" />
@@ -13750,10 +13784,12 @@
     </library>
     <library name="websocket-driver (v0.6.3, RVM: ruby-2.3.3 [paydirt]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/websocket-driver-0.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/websocket-driver-0.6.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/websocket-driver-0.6.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/websocket-driver-0.6.3/lib" />
       </SOURCES>
