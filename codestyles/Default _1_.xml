@@ -11,12 +11,20 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <CoffeeScriptCodeStyleSettings>
+    <option name="SPACE_WITHIN_OBJECT_BRACES" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+  </CoffeeScriptCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="CoffeeScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -26,9 +34,13 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="RHTML">
     <indentOptions>
@@ -38,7 +50,9 @@
   <codeStyleSettings language="ruby">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
   </codeStyleSettings>
