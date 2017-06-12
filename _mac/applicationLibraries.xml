@@ -13470,6 +13470,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-4.2.7/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-failures-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-failures-0.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-pro (v2.1.5, RVM: ruby-2.2.3 [rails32]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@rails32/gems/sidekiq-pro-2.1.5/lib" />
