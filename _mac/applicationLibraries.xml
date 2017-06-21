@@ -3452,6 +3452,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/docusign_rest-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="docusign_rest (v0.3.0, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/docusign_rest-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/docusign_rest-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dogapi (v1.21.0, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/dogapi-1.21.0/lib" />
@@ -8456,6 +8464,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@rails32/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
@@ -13478,6 +13494,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-4.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-4.2.7/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-4.2.7/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-failures-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/sidekiq-failures-0.4.5/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
