@@ -1436,6 +1436,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/bootstrap-sass-3.3.7/templates" />
       </SOURCES>
     </library>
+    <library name="bootstrap3-datetimepicker-rails (v4.17.37, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/bootstrap3-datetimepicker-rails-4.17.37/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/bootstrap3-datetimepicker-rails-4.17.37/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/bootstrap3-datetimepicker-rails-4.17.37/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/bootstrap3-datetimepicker-rails-4.17.37/vendor" />
+      </SOURCES>
+    </library>
     <library name="bootstrap_form (v2.2.0, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/bootstrap_form-2.2.0/app" />
@@ -3114,6 +3124,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4@clio/gems/db-query-matchers-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta9, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.9, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/debase-ruby_core_source-0.9.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/debase-ruby_core_source-0.9.9/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
@@ -6671,7 +6699,7 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
       </CLASSES>
       <SOURCES>
@@ -6704,7 +6732,7 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
-        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
@@ -12282,6 +12310,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/rubocop-0.45.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/rubocop-0.45.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/rubocop-0.45.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ruby-2.3.1 [datadrivenlending]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@datadrivenlending/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-ole (v1.2.12, RVM: ruby-2.2.3 [rails32]) [gem]">
