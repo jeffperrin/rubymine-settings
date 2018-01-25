@@ -428,6 +428,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/activerecord-oracle_enhanced-adapter-1.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-oracle_enhanced-adapter (v5.2.0.beta1, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activerecord-oracle_enhanced-adapter-5.2.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activerecord-oracle_enhanced-adapter-5.2.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="activestorage (v5.2.0.beta2, RVM: ruby-2.5.0 [internal_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activestorage-5.2.0.beta2/lib" />
@@ -7008,6 +7016,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/ruby-plsql-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/ruby-plsql-0.6.0/.travis" />
+      </SOURCES>
+    </library>
+    <library name="ruby-plsql (v0.6.0, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-plsql-0.6.0/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-plsql-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-plsql-0.6.0/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-plsql-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-plsql (v0.6.0@df9297, RVM: ruby-2.4.1 [blammer]) [gem]">
