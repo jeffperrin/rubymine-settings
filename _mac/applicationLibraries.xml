@@ -4534,6 +4534,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/money-6.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="msgpack (v1.2.2, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/doclib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/doclib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/msgpack-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.11.2, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/multi_json-1.11.2/lib" />
@@ -6960,6 +6976,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/bundler/gems/ruby-oci8-e9f3544cb2ed/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/bundler/gems/ruby-oci8-e9f3544cb2ed/cisetup" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/bundler/gems/ruby-oci8-e9f3544cb2ed/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-oci8 (v2.2.5.1, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-oci8/2.2.5.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-oci8-2.2.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-oci8-2.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-oci8/2.2.5.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-oci8-2.2.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-oci8-2.2.5.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-ole (v1.2.12, RVM: ruby-2.3.1 [lifty]) [gem]">
