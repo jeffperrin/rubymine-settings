@@ -1,6 +1,6 @@
 <application>
   <component name="RailsApplicationSettings">
-    <option name="wizardRailsFacetPreconfigureDBName" value="postgresql" />
+    <option name="wizardRailsFacetPreconfigureDBName" value="oracle" />
     <option name="wizardRailsFacetPreconfigureSkipTUnitFiles" value="true" />
     <option name="wizardRailsFacetTemplates">
       <array>
