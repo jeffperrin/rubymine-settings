@@ -1926,6 +1926,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta14, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.2.beta14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.2.beta14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.2.beta14/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-0.2.2.beta14/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta8, RVM: ruby-2.3.1 [lifty]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/debase-0.2.2.beta8/ext" />
@@ -1944,6 +1964,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/debase-0.2.2.beta9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/debase-0.2.2.beta9/ext" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.2, RVM: ruby-2.3.1 [lifty]) [gem]">
@@ -6996,6 +7024,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/rubocop-0.45.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/rubocop-0.45.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/rubocop-0.45.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta12, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-debug-ide-0.6.1.beta12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-debug-ide-0.6.1.beta12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-debug-ide-0.6.1.beta12/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-debug-ide-0.6.1.beta12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-debug-ide-0.6.1.beta12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/ruby-debug-ide-0.6.1.beta12/bin" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.1 [lifty]) [gem]">
