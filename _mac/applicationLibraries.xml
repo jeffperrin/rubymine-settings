@@ -436,6 +436,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activerecord-oracle_enhanced-adapter-5.2.0.beta1/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-session_store (v1.1.0, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activerecord-session_store-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activerecord-session_store-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activestorage (v5.2.0.beta2, RVM: ruby-2.5.0 [internal_admin]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/activestorage-5.2.0.beta2/lib" />
@@ -4660,6 +4668,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/multi_json-1.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.5.0 [internal_admin]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.5.5, RVM: ruby-2.2.3 [client_portal]) [gem]">
