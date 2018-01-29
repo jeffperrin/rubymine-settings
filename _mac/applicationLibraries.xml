@@ -830,6 +830,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/autoparse-0.3.3/tasks" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v7.2.5, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/autoprefixer-rails-7.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/autoprefixer-rails-7.2.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/autoprefixer-rails-7.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/autoprefixer-rails-7.2.5/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.6.1, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/awesome_print-1.6.1/lib" />
@@ -1134,6 +1144,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/bootsnap-1.1.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/bootsnap-1.1.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin/gems/bootsnap-1.1.8/bin" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.0.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/bootstrap-4.0.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/bootstrap-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/bootstrap-4.0.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/bootstrap-4.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/bootstrap-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="bootstrap-sass (v2.3.2.2, RVM: ruby-2.2.3 [client_portal]) [gem]">
@@ -2670,6 +2692,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/erubis-2.7.0/doc-api" />
       </SOURCES>
     </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="excon (v0.45.4, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/excon-0.45.4/tests" />
@@ -3716,6 +3754,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/haml-4.0.7/bin" />
       </SOURCES>
     </library>
+    <library name="haml (v5.0.4, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-5.0.4/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-5.0.4/yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="haml-rails (v0.9.0, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/haml-rails-0.9.0/lib" />
@@ -3724,6 +3774,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/haml-rails-0.9.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/haml-rails-0.9.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="haml-rails (v1.0.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-rails-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-rails-1.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-rails-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/haml-rails-1.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="haml_lint (v0.15.2, RVM: ruby-2.2.3 [client_portal]) [gem]">
@@ -3844,6 +3904,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/html2haml-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/html2haml-2.0.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="html2haml (v2.2.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/html2haml-2.2.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/html2haml-2.2.0/bin" />
       </SOURCES>
     </library>
     <library name="htmlbeautifier (v1.2.0, RVM: ruby-2.3.1 [lifty]) [gem]">
@@ -4146,6 +4216,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/jquery-rails-4.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@blammer/gems/jquery-rails-4.3.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.3.1, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/jquery-rails-4.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/jquery-rails-4.3.1/vendor" />
       </SOURCES>
     </library>
     <library name="jshintrb (v0.3.0, RVM: ruby-2.3.1 [lifty]) [gem]">
@@ -5924,6 +6004,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/polyamorous-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="popper_js (v1.12.9, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/popper_js-1.12.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/popper_js-1.12.9/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/popper_js-1.12.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/popper_js-1.12.9/assets" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, RVM: ruby-2.3.1 [lifty]) [gem]">
@@ -7962,6 +8052,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby_parser (v3.10.1, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_parser-3.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_parser-3.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_parser-3.10.1/compare" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_parser-3.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_parser-3.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ruby_parser-3.10.1/compare" />
+      </SOURCES>
+    </library>
     <library name="ruby_parser (v3.7.1, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/ruby_parser-3.7.1/lib" />
@@ -8422,6 +8524,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/sentry-raven-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sexp_processor (v4.10.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/sexp_processor-4.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/sexp_processor-4.10.0/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.6.0, RVM: ruby-2.2.3 [client_portal]) [gem]">
@@ -9064,6 +9174,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/temple-0.7.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.8.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.5, RVM: ruby-2.3.1 [lifty]) [gem]">
