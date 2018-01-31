@@ -1028,12 +1028,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/babel-source-5.8.35/lib" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-transpiler (v0.7.0, RVM: ruby-2.3.1 [lifty]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/babel-transpiler-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/babel-transpiler-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1 [lifty]) [gem]">
@@ -2018,6 +2034,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/connection_pool-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="countries (v0.9.3, RVM: ruby-2.2.3 [client_portal]) [gem]">
@@ -7268,6 +7292,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/rdoc/i18n" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/rdoc/ri" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/rdoc/stats" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.4.3, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/react-rails-2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/react-rails-2.4.3/lib" />
       </SOURCES>
     </library>
     <library name="redcarpet (v3.3.4, RVM: ruby-2.3.1 [lifty]) [gem]">
