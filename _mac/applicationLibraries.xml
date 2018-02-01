@@ -6040,6 +6040,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/polyamorous-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="polyamorous (v1.3.3, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/polyamorous-1.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/polyamorous-1.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="popper_js (v1.12.9, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/popper_js-1.12.9/lib" />
@@ -7038,6 +7046,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/ransack-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.8.6, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ransack-1.8.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/ransack-1.8.6/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.4.1 [blammer]) [gem]">
