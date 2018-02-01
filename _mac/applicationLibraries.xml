@@ -710,6 +710,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@lifty/gems/akami-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="annotate (v2.7.2, RVM: ruby-2.5.0 [internal_admin_again]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/annotate-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/annotate-2.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/annotate-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@internal_admin_again/gems/annotate-2.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ansi (v1.5.0, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/ansi-1.5.0/demo" />
