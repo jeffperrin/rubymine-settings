@@ -6566,6 +6566,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4/gems/faraday_middleware-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="faraday_middleware (v0.12.2, RVM: ruby-2.3.3 [real-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/faraday_middleware-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/faraday_middleware-0.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday_middleware-aws-signers-v4 (v0.1.5, RVM: ruby-2.2.3 [client_portal]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/faraday_middleware-aws-signers-v4-0.1.5/bin" />
@@ -6574,6 +6582,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/faraday_middleware-aws-signers-v4-0.1.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@client_portal/gems/faraday_middleware-aws-signers-v4-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="fast_jsonapi (v1.2, RVM: ruby-2.3.3 [real-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/fast_jsonapi-1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/fast_jsonapi-1.2/lib" />
       </SOURCES>
     </library>
     <library name="fastercsv (v1.5.5, RVM: ruby-2.1.4 [clio]) [gem]">
@@ -14828,6 +14844,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/quiet_assets-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.10, RVM: ruby-2.3.3 [real-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rack-1.6.10/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.4, RVM: ruby-2.1.4 [clio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4@clio/gems/rack-1.6.4/bin" />
@@ -20822,6 +20852,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/sprockets-3.7.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/sprockets-3.7.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v3.7.2, RVM: ruby-2.3.3 [real-server]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/sprockets-3.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/sprockets-3.7.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/sprockets-3.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/sprockets-3.7.2/bin" />
       </SOURCES>
     </library>
     <library name="sprockets-coffee-react (v2.1.0, RVM: ruby-2.3.3 [paydirt]) [gem]">
