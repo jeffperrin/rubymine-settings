@@ -1,5 +1,5 @@
 <templateSet group="Ruby RSpec">
-  <template name="it" value="it '$DO_SOME_COOL_STUFF$' do&#10;  $ADD_SOME_COOL_CODE$&#10;end" description="it" toReformat="true" toShortenFQNames="true">
+  <template name="it" value="it &quot;$DO_SOME_COOL_STUFF$&quot; do&#10;  $ADD_SOME_COOL_CODE$&#10;end" description="it" toReformat="true" toShortenFQNames="true">
     <variable name="DO_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ADD_SOME_COOL_CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -9,5 +9,10 @@
       <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
+  </template>
+  <template name="desc" value="describe $SYSTEM_UNDER_TEST$ do&#10;  $CURSOR$&#10;end" description="desc" toReformat="true" toShortenFQNames="true">
+    <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
