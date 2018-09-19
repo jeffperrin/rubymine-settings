@@ -6356,6 +6356,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/fast_jsonapi-1.2/lib" />
       </SOURCES>
     </library>
+    <library name="fast_jsonapi (v1.3, RVM: ruby-2.3.3 [real-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/fast_jsonapi-1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/fast_jsonapi-1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="fastercsv (v1.5.5, RVM: ruby-2.1.4 [clio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4@clio/gems/fastercsv-1.5.5/lib" />
@@ -6511,6 +6522,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.14/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.14/libtest" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.9.25, RVM: ruby-2.3.3 [real-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/ffi-1.9.25/samples" />
       </excluded>
     </library>
     <library name="ffi (v1.9.8, RVM: ruby-2.1.4 [clio]) [gem]">
@@ -12997,6 +13029,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.3.0.346/recipes" />
       </excluded>
     </library>
+    <library name="newrelic_rpm (v5.4.0.347, RVM: ruby-2.3.3 [real-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/newrelic_rpm-5.4.0.347/recipes" />
+      </excluded>
+    </library>
     <library name="nextcaller_client (v0.0.3, RVM: ruby-2.1.4 [clio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4@clio/gems/nextcaller_client-0.0.3/lib" />
@@ -17200,6 +17260,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/request_store-1.2.1/test" />
       </excluded>
     </library>
+    <library name="request_store (v1.4.1, RVM: ruby-2.3.3 [real-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/request_store-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/request_store-1.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/request_store-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/request_store-1.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/request_store-1.4.1/test" />
+      </excluded>
+    </library>
     <library name="require_all (v1.3.2, RVM: ruby-2.1.4 [clio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4@clio/gems/require_all-1.3.2/lib" />
@@ -17451,6 +17527,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@paydirt/gems/rest-client-1.8.0/lib" />
       </SOURCES>
+    </library>
+    <library name="restforce (v3.0.1, RVM: ruby-2.3.3 [real-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/restforce-3.0.1/.circleci" />
+      </excluded>
     </library>
     <library name="retriable (v1.4.1, RVM: ruby-2.1.4 [clio]) [gem]">
       <CLASSES>
