@@ -2446,6 +2446,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bundler-1.16.1/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.2, RVM: ruby-2.3.3 [real-server]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bundler-1.16.2/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.5.0, RVM: ruby-2.1.4 [clio]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.4@clio/gems/bundler-audit-0.5.0/bin" />
