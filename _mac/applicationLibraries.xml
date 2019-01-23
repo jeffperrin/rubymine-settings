@@ -1833,13 +1833,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/bcrypt-3.1.11/spec" />
@@ -1947,14 +1945,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/binding_of_caller-0.7.2/test" />
@@ -12569,7 +12565,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/spec" />
@@ -12577,7 +12572,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/mysql2-0.4.5/spec" />
@@ -15077,7 +15071,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/lib" />
@@ -15087,7 +15080,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/puma-3.9.1/lib" />
@@ -19045,13 +19037,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rugged/0.24.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rugged-0.24.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rugged-0.24.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rugged-0.24.0/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rugged/0.24.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rugged-0.24.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rugged-0.24.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@real-server/gems/rugged-0.24.0/vendor" />
