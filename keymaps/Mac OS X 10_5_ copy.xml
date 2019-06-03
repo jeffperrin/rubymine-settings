@@ -1,10 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
