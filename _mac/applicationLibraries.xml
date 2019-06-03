@@ -626,6 +626,44 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, asdf: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-1.17.3/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.0.1, asdf: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/bundler-2.0.1/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.6.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1074,6 +1112,36 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/gemfiles" />
       </excluded>
     </library>
+    <library name="devise (v3.5.10@bddf05, asdf: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/script" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/script" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/script" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/gemfiles" />
+      </excluded>
+    </library>
     <library name="devise-encryptable (v0.2.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1249,6 +1317,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/.git" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/examples" />
+      </excluded>
+    </library>
+    <library name="docusign_rest (v0.1.2@3779fd, asdf: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/docusign_rest-3779fde770dd/examples" />
       </excluded>
     </library>
     <library name="dotenv (v2.2.0, asdf: 2.5.3) [gem]" type="rubylib">
