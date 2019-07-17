@@ -28,12 +28,16 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="ParameterInfo" />
   <action id="Replace" />
   <action id="SearchEverywhere">

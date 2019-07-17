@@ -3,7 +3,7 @@
     <property name="created">2019-06-03T15:00:20</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-03T15:01:18</property>
+    <property name="modified">2019-07-16T19:58:46</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <colors>
@@ -966,8 +966,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ebcb8b" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_COLOR" value="ebd6a2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INI.KEY">
@@ -1308,6 +1308,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="535f73" />
         <option name="EFFECT_COLOR" value="ebcb8b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -1438,6 +1439,21 @@
     <option name="REST.SECTION.HEADER">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
+      </value>
+    </option>
+    <option name="RUBY_CONSTANT_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="d4b01d" />
+      </value>
+    </option>
+    <option name="RUBY_PARAMETER_ID">
+      <value>
+        <option name="FOREGROUND" value="d4b01d" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
@@ -1672,10 +1688,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ebcb8b" />
         <option name="EFFECT_COLOR" value="ebcb8b" />
         <option name="ERROR_STRIPE_COLOR" value="ebcb8b" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -1691,10 +1706,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bf616a" />
         <option name="EFFECT_COLOR" value="bf616a" />
         <option name="ERROR_STRIPE_COLOR" value="bf616a" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
