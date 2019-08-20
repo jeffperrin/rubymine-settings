@@ -5325,6 +5325,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/google-id-token-50a90fc4cd21/gemfiles" />
       </excluded>
     </library>
+    <library name="graphql (v1.9.6, asdf: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/graphql-1.9.6/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/graphql-1.9.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/graphql-1.9.6/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/graphql-1.9.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/graphql-1.9.6/spec" />
+      </excluded>
+    </library>
     <library name="groupdate (v3.2.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7261,6 +7277,34 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-5.4.0.347/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-5.4.0.347/config" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-5.4.0.347/recipes" />
+      </excluded>
+    </library>
+    <library name="newrelic_rpm (v6.5.0.357, asdf: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/cert" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/cert" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/cert" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.5/lib/ruby/gems/2.5.0/gems/newrelic_rpm-6.5.0.357/recipes" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.1, asdf: 2.5.3) [gem]" type="rubylib">
