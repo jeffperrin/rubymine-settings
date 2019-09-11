@@ -26,10 +26,12 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
-  <action id="EditorScrollBottom">
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorScrollTop">
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="ExpandAll">
