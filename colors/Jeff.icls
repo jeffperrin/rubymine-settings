@@ -4,13 +4,9 @@
     <property name="created">2016-09-29T16:36:51</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2018-09-06T16:43:27</property>
+    <property name="modified">2019-11-14T10:36:32</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
@@ -135,7 +131,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="1c67c2" />
+        <option name="EFFECT_COLOR" value="d5d4de" />
         <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
       </value>
     </option>
@@ -277,6 +273,9 @@
       <value>
         <option name="FOREGROUND" value="6d91b7" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
