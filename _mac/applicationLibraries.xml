@@ -1642,6 +1642,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
       </excluded>
     </library>
+    <library name="bcrypt (v3.1.13, asdf: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.13/spec" />
+      </excluded>
+    </library>
     <library name="best_in_place (v1.1.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3888,6 +3907,24 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise-bddf051bfb42/gemfiles" />
       </excluded>
     </library>
+    <library name="devise (v4.7.1, asdf: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-4.7.1/config" />
+      </excluded>
+    </library>
     <library name="devise-encryptable (v0.2.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3984,6 +4021,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-token_authenticatable-0.4.0/spec" />
       </excluded>
     </library>
+    <library name="devise-token_authenticatable (v1.1.0, asdf: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-token_authenticatable-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-token_authenticatable-1.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-token_authenticatable-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-token_authenticatable-1.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise-token_authenticatable-1.1.0/spec" />
+      </excluded>
+    </library>
     <library name="devise_security_extension (v0.10.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4045,6 +4098,30 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise_security_extension-0.10.0/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/devise_security_extension-0.10.0/config" />
+      </excluded>
+    </library>
+    <library name="devise_security_extension (v0.10.0@b2ee97, asdf: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/bundler/gems/devise_security_extension-b2ee978af7d4/config" />
       </excluded>
     </library>
     <library name="did_you_mean (v1.2.0, asdf: 2.5.3) [gem]" type="rubylib">
