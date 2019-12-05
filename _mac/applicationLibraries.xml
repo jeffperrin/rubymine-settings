@@ -1626,13 +1626,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/bcrypt-3.1.12/spec" />
@@ -17077,6 +17075,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/shoulda-matchers-3.0.1/gemfiles" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/shoulda-matchers-3.0.1/doc_config" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/shoulda-matchers-3.0.1/.hound_config" />
+      </excluded>
+    </library>
+    <library name="sift (v4.0.0, asdf: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/sift-4.0.0/.circleci" />
       </excluded>
     </library>
     <library name="signet (v0.6.1, asdf: 2.5.5) [gem]" type="rubylib">
