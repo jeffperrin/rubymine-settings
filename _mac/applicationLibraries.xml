@@ -5907,7 +5907,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/stackprof/0.2.13" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/lib" />
@@ -5915,7 +5914,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/stackprof/0.2.13" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/stackprof-0.2.13/lib" />
