@@ -3034,6 +3034,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/hitimes/1.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/spec" />
@@ -3041,6 +3042,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/hitimes/1.3.1" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/hitimes-1.3.1/spec" />
@@ -4084,6 +4086,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/spec" />
@@ -4091,6 +4094,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/nio4r-2.5.2/spec" />
@@ -4701,6 +4705,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/4.3.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/lib" />
@@ -4708,6 +4713,7 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/4.3.3" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/gems/2.5.0/gems/puma-4.3.3/lib" />
