@@ -1,1 +1,15 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
+    <option name="EMPTY_DECLARATIONS_STYLE" value="0" />
+  </Ruby>
+  <codeStyleSettings language="ruby">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
