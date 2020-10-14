@@ -6562,6 +6562,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/standard-0.6.0/.github" />
       </excluded>
     </library>
+    <library name="standardrb (v1.0.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/standardrb-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/standardrb-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/standardrb-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/standardrb-1.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/standardrb-1.0.0/bin" />
+      </excluded>
+    </library>
     <library name="test-unit (v3.2.9, asdf: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
