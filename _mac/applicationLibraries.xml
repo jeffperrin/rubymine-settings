@@ -1743,6 +1743,39 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/debase-ruby_core_source-0.10.11/lib" />
       </SOURCES>
     </library>
+    <library name="delayed_job (v4.1.8, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/contrib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/contrib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/contrib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job-4.1.8/recipes" />
+      </excluded>
+    </library>
+    <library name="delayed_job_active_record (v4.1.4, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job_active_record-4.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/delayed_job_active_record-4.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="delegate (v0.1.0, asdf: 2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
