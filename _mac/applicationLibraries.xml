@@ -1050,6 +1050,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/aws-sigv4-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="azure-storage-blob (v2.0.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/azure-storage-blob-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/azure-storage-blob-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure-storage-common (v2.0.1, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/azure-storage-common-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/azure-storage-common-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.16, asdf: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2323,6 +2345,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/faraday-1.1.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/faraday-1.1.0/examples" />
       </excluded>
+    </library>
+    <library name="faraday_middleware (v1.0.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/faraday_middleware-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/faraday_middleware-1.0.0/lib" />
+      </SOURCES>
     </library>
     <library name="ffi (v1.13.1, asdf: 2.6.5) [gem]" type="rubylib">
       <properties>
