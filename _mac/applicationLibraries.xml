@@ -843,6 +843,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/codecov-0.2.12/test" />
       </excluded>
     </library>
+    <library name="codecov (v0.2.13, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/codecov-0.2.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/codecov-0.2.13/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.1.7, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2662,6 +2673,33 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.0/tools" />
       </excluded>
     </library>
+    <library name="puma (v5.1.1, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.1.1" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.1.1" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/puma-5.1.1/tools" />
+      </excluded>
+    </library>
     <library name="pundit (v2.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3715,6 +3753,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/sentry-raven-3.1.1/sentry-ruby/examples" />
       </excluded>
     </library>
+    <library name="simplecov (v0.18.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/simplecov-0.18.5/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/simplecov-0.18.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/simplecov-0.18.5/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/simplecov-0.18.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/simplecov-0.18.5/doc" />
+      </excluded>
+    </library>
     <library name="simplecov (v0.19.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4077,6 +4131,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.43.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.43.0/examples" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.43.0/githooks" />
+      </excluded>
+    </library>
+    <library name="twilio-ruby (v5.45.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.45.0/githooks" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.7, asdf: 2.7.2) [gem]" type="rubylib">
