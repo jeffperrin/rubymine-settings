@@ -3,7 +3,7 @@
     <property name="created">2020-12-18T15:56:31</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-18T15:59:21</property>
+    <property name="modified">2020-12-21T08:23:12</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -261,7 +261,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="edebfc" />
+        <option name="BACKGROUND" value="f8f6fc" />
         <option name="ERROR_STRIPE_COLOR" value="d0a1ff" />
       </value>
     </option>
