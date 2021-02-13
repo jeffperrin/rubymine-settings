@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="heroku_release" type="AUTO_DETECTED" />
       <mapping pattern="" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
