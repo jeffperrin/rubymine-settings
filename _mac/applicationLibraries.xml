@@ -26,6 +26,19 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actioncable-6.0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actioncable-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actioncable-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actioncable-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actioncable-6.0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -81,6 +94,27 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.4/config" />
       </excluded>
     </library>
+    <library name="actionmailbox (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailbox-6.0.3.5/config" />
+      </excluded>
+    </library>
     <library name="actionmailbox (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -124,6 +158,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailer-6.0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailer-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionmailer-6.0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -155,6 +200,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionpack-6.0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionpack-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionpack-6.0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
@@ -204,6 +260,24 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.4/db" />
       </excluded>
     </library>
+    <library name="actiontext (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actiontext-6.0.3.5/db" />
+      </excluded>
+    </library>
     <library name="actiontext (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -244,6 +318,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionview-6.0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionview-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/actionview-6.0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -277,6 +362,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activejob-6.0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activejob-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activejob-6.0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -308,6 +404,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activemodel-6.0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activemodel-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activemodel-6.0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
@@ -351,6 +458,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activerecord-6.0.3.4/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activerecord-6.0.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activerecord-6.0.3.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activerecord-6.0.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activerecord-6.0.3.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activerecord-6.0.3.5/examples" />
       </excluded>
     </library>
     <library name="activerecord (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
@@ -411,6 +534,27 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.4/config" />
       </excluded>
     </library>
+    <library name="activestorage (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activestorage-6.0.3.5/config" />
+      </excluded>
+    </library>
     <library name="activestorage (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -452,6 +596,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activesupport-6.0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activesupport-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/activesupport-6.0.3.5/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
@@ -2165,6 +2320,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/loofah-2.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.9.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/loofah-2.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/loofah-2.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.7.1, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2362,6 +2528,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/minitest-5.14.3/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.14.4, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/minitest-5.14.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/minitest-5.14.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/minitest-5.14.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/minitest-5.14.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/minitest-5.14.4/test" />
       </excluded>
     </library>
     <library name="mjml-rails (v4.4.0, asdf: 2.7.2) [gem]" type="rubylib">
@@ -3378,6 +3560,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3447,6 +3636,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/railties-6.0.3.4/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v6.0.3.5, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/railties-6.0.3.5/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/railties-6.0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/railties-6.0.3.5/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/railties-6.0.3.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/railties-6.0.3.5/exe" />
       </excluded>
     </library>
     <library name="railties (v6.1.0, asdf: 2.7.2) [gem]" type="rubylib">
@@ -5051,6 +5256,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/thor-1.0.1/bin" />
       </excluded>
     </library>
+    <library name="thor (v1.1.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/thor-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/thor-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/thor-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/thor-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/thor-1.1.0/bin" />
+      </excluded>
+    </library>
     <library name="thread_safe (v0.3.6, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5252,6 +5473,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.47.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.47.0/examples" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.47.0/githooks" />
+      </excluded>
+    </library>
+    <library name="twilio-ruby (v5.48.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.48.0/githooks" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.7, asdf: 2.7.2) [gem]" type="rubylib">
