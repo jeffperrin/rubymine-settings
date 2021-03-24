@@ -1958,6 +1958,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/graphql-1.12.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v4.1.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/hashie-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/hashie-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http-accept (v1.7.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2050,6 +2061,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/image_processing-1.11.0/lib" />
       </SOURCES>
+    </library>
+    <library name="inflection (v1.0.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/inflection-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/inflection-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/inflection-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/inflection-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/inflection-1.0.0/spec" />
+      </excluded>
     </library>
     <library name="io-console (v0.5.6, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
@@ -6088,6 +6115,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/zeitwerk-2.4.2/lib" />
       </SOURCES>
+    </library>
+    <library name="zendesk_api (v1.28.0, asdf: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/zendesk_api-1.28.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/zendesk_api-1.28.0/util" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/zendesk_api-1.28.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/zendesk_api-1.28.0/util" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.2/lib/ruby/gems/2.7.0/gems/zendesk_api-1.28.0/util" />
+      </excluded>
     </library>
   </component>
 </application>
