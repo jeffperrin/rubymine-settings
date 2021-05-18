@@ -2967,6 +2967,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/faker-2.17.0/bin" />
       </excluded>
     </library>
+    <library name="faker (v2.18.0, asdf: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/faker-2.18.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/faker-2.18.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/faker-2.18.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/faker-2.18.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/faker-2.18.0/bin" />
+      </excluded>
+    </library>
     <library name="faraday (v1.0.1, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
