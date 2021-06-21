@@ -10504,5 +10504,21 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/zendesk_api-1.29.0/util" />
       </excluded>
     </library>
+    <library name="zendesk_api (v1.30.0, asdf: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/zendesk_api-1.30.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/zendesk_api-1.30.0/util" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/zendesk_api-1.30.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/zendesk_api-1.30.0/util" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/zendesk_api-1.30.0/util" />
+      </excluded>
+    </library>
   </component>
 </application>
