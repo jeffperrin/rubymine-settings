@@ -9992,6 +9992,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.54.1/githooks" />
       </excluded>
     </library>
+    <library name="twilio-ruby (v5.55.0, asdf: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/conf" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/twilio-ruby-5.55.0/githooks" />
+      </excluded>
+    </library>
     <library name="tzinfo (v1.2.7, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
