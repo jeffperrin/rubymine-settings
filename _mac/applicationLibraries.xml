@@ -1617,13 +1617,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bootsnap/1.7.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.5/exe" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bootsnap/1.7.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.5/exe" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.5/lib" />
@@ -1638,13 +1636,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bootsnap/1.7.6" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.6/exe" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.6/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bootsnap/1.7.6" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.6/exe" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.6/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/bootsnap-1.7.6/lib" />
@@ -3503,14 +3499,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ffi/1.15.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/rakelib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/ffi/1.15.0" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/ffi-1.15.0/rakelib" />
@@ -5807,6 +5801,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/optimizely-sdk-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="optimizely-sdk (v3.8.1, asdf: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/optimizely-sdk-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/optimizely-sdk-3.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ostruct (v0.2.0, asdf: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6713,7 +6718,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.3.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/lib" />
@@ -6721,7 +6725,6 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.3.2" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/puma-5.3.2/lib" />
@@ -7338,13 +7341,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.3/lib/ruby/gems/2.7.0/gems/rb-fsevent-0.10.4/lib" />
